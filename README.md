@@ -1,2 +1,2 @@
 # Blinkz-
-Real world use of bkinkz
+just to commit changes
